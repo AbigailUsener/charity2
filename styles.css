@@ -1,0 +1,102 @@
+.color1{
+    background-color: aquamarine;
+}
+.color2{
+    background-color:violet;
+}
+.color3{
+    background-color:cyan;
+}
+.title{
+    font-size:60px;
+    text-align:center;
+    position:absolute;
+    top:0px;
+    right:380px;
+}
+.title2{
+    font-size:70px;
+}
+.title3{
+    font-size:70px;
+    text-align:center;
+}
+.moto {
+    font-size: 40px;
+    text-align:center;
+    position:absolute;
+    top:80px;
+    right:130px;
+}
+
+.text{
+    text-align:center;
+    font: size 30px;;
+    position:absolute;
+    top:200px;
+    right:130px;
+}
+.text2{
+    text-align:center;
+    font-size:larger;
+    position:absolute;
+    top:420px;
+    right:500px;
+}
+.text3{
+    text-align:center;
+    font-size:larger;
+    position:absolute;
+    top:420px;
+    right:400px;
+}
+.text4{
+    text-align:center;
+    font-size:larger;
+    position:absolute;
+    top:100px;
+    right:80px;
+}
+.text5{
+    text-align:center;
+    font-size:larger;
+    position:absolute;
+    top:300px;
+    right:500px;
+}
+.text6{
+    text-align:center;
+    font-size:larger;
+}
+.text-color1{
+    color:blue
+}
+.text-color2{
+    color:cornflowerblue;
+}
+.move-pic1{
+    position: absolute;
+    bottom:20px;
+    left:30px;
+}
+.move-pic2{
+    position: absolute;
+    bottom:20px;
+    right:30px;
+}
+
+.move-pic3{
+    position: absolute;
+    bottom:0px;
+    right:0px;
+}
+.move-pic4{
+    position: absolute;
+    bottom:0px;
+    left:0px;
+}
+.move-vid{
+    position:absolute;
+    bottom:20px;
+    left:200px;
+}

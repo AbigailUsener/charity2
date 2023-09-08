@@ -40,14 +40,14 @@
     text-align:center;
     font-size:larger;
     position:absolute;
-    top:420px;
+    top:550px;
     right:500px;
 }
 .text3{
     text-align:center;
     font-size:larger;
     position:absolute;
-    top:420px;
+    top:550px;
     right:400px;
 }
 .text4{
@@ -76,13 +76,13 @@
 }
 .move-pic1{
     position: absolute;
-    bottom:20px;
-    left:30px;
+    top:20px;
+    left:0px;
 }
 .move-pic2{
     position: absolute;
-    bottom:20px;
-    right:30px;
+    top:20px;
+    right:0px;
 }
 
 .move-pic3{
